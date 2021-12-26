@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Alert Dialogue</string>
+    <string name="dialog_message">Welcome to Alert Dialog</string>
+    <string name="dialog_title">Javatpoint Alert Dialog</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+
+    <array name="ArrayColor">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </array>
+</resources>
