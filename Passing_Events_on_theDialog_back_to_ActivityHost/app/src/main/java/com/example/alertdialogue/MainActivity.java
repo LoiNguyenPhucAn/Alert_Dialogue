@@ -13,7 +13,9 @@ import android.widget.Toast;
 
 import java.util.ArrayList;
 
-public class MainActivity extends FragmentActivity implements DialogFrag.DialogListener{
+//AppCompatActivity extends FragmentActivity, 
+//so anyone who needs to use features of FragmentActivity can use AppCompatActivity.
+public class MainActivity extends AppCompatActivity implements DialogFrag.DialogListener{
 
     Button  custom;
 
